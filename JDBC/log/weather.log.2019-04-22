@@ -1,0 +1,186 @@
+22.04.2019 20:30:49 [main] INFO  Main  - Connection to Store DB succesfull!
+22.04.2019 20:30:49 [main] INFO  Main  - Закрываем соединение с БД
+22.04.2019 20:31:07 [main] INFO  Main  - Connection to Store DB succesfull!
+22.04.2019 20:31:07 [main] INFO  Main  - Закрываем соединение с БД
+22.04.2019 20:31:28 [main] INFO  Main  - Connection to Weather DB succesfull!
+22.04.2019 20:31:28 [main] INFO  Main  - Закрываем соединение с БД
+22.04.2019 20:53:04 [main] INFO  Main  - Connection to Weather DB succesfull!
+22.04.2019 20:53:04 [main] INFO  Main  - Вывести сведения о погоде в заданном регионе
+22.04.2019 20:53:05 [main] INFO  Main  - Date: 2019-04-21 
+Temperature: 27 degrees
+Precipitation: 10 mm
+Region: Rome
+22.04.2019 20:58:49 [main] INFO  Main  - Connection to Weather DB succesfull!
+22.04.2019 20:58:49 [main] INFO  Main  - Weather information in Rome
+22.04.2019 20:58:49 [main] INFO  Main  - 
+Date: 2019-04-21 
+Temperature: 27 degrees
+Precipitation: 10 mm
+Region: Rome
+22.04.2019 21:12:39 [main] INFO  Main  - Connection to Weather DB succesfull!
+22.04.2019 21:12:39 [main] INFO  Main  - Weather information in Rome
+22.04.2019 21:12:39 [main] INFO  Main  - 
+Date: 2019-04-21 
+Temperature: 27 degrees
+Precipitation: 10 mm
+Region: Rome
+22.04.2019 21:12:39 [main] INFO  Main  - Weather information in Minsk where temperature <0  and precipitation >10
+22.04.2019 21:12:47 [main] INFO  Main  - Connection to Weather DB succesfull!
+22.04.2019 21:12:47 [main] INFO  Main  - Weather information in Rome
+22.04.2019 21:12:47 [main] INFO  Main  - 
+Date: 2019-04-21 
+Temperature: 27 degrees
+Precipitation: 10 mm
+Region: Rome
+22.04.2019 21:12:47 [main] INFO  Main  - Weather information in Minsk where temperature <0  and precipitation >10
+22.04.2019 21:14:13 [main] INFO  Main  - Connection to Weather DB succesfull!
+22.04.2019 21:14:13 [main] INFO  Main  - Weather information in Rome
+22.04.2019 21:14:13 [main] INFO  Main  - 
+Date: 2019-04-21 
+Temperature: 27 degrees
+Precipitation: 10 mm
+Region: Rome
+22.04.2019 21:14:13 [main] INFO  Main  - Weather information in Minsk where temperature <0  and precipitation >10
+22.04.2019 21:14:49 [main] INFO  Main  - Connection to Weather DB succesfull!
+22.04.2019 21:14:49 [main] INFO  Main  - Weather information in Rome
+22.04.2019 21:14:49 [main] INFO  Main  - 
+Date: 2019-04-21 
+Temperature: 27 degrees
+Precipitation: 10 mm
+Region: Rome
+22.04.2019 21:14:49 [main] INFO  Main  - Weather information in Minsk where temperature <0  and precipitation >10
+22.04.2019 21:15:22 [main] INFO  Main  - Connection to Weather DB succesfull!
+22.04.2019 21:15:22 [main] INFO  Main  - Weather information in Rome
+22.04.2019 21:15:22 [main] INFO  Main  - 
+Date: 2019-04-21 
+Temperature: 27 degrees
+Precipitation: 10 mm
+Region: Rome
+22.04.2019 21:15:22 [main] INFO  Main  - Weather information in Minsk where temperature <0  and precipitation >10
+22.04.2019 21:15:22 [main] INFO  Main  - 
+Date: 2019-04-02 
+Temperature: -8 degrees
+Precipitation: 20 mm
+Region: Minsk
+22.04.2019 21:16:00 [main] INFO  Main  - Connection to Weather DB succesfull!
+22.04.2019 21:16:00 [main] INFO  Main  - Weather information in Rome
+22.04.2019 21:16:00 [main] INFO  Main  - 
+Date: 2019-04-21 
+Temperature: 27 degrees
+Precipitation: 10 mm
+Region: Rome
+22.04.2019 21:16:00 [main] INFO  Main  - 
+_____________________________________________
+
+22.04.2019 21:16:00 [main] INFO  Main  - Weather information in Minsk where temperature <0  and precipitation >10
+22.04.2019 21:16:00 [main] INFO  Main  - 
+Date: 2019-04-02 
+Temperature: -8 degrees
+Precipitation: 20 mm
+Region: Minsk
+22.04.2019 21:33:24 [main] INFO  Main  - Connection to Weather DB succesfull!
+22.04.2019 21:33:24 [main] INFO  Main  - Weather information in Rome
+22.04.2019 21:33:24 [main] INFO  Main  - 
+Date: 2019-04-21 
+Temperature: 27 degrees
+Precipitation: 10 mm
+Region: Rome
+22.04.2019 21:33:24 [main] INFO  Main  - 
+_____________________________________________
+
+22.04.2019 21:33:24 [main] INFO  Main  - Weather information in Minsk where temperature <0  and precipitation >10
+22.04.2019 21:33:24 [main] INFO  Main  - 
+Date: 2019-04-02 
+Temperature: -8 degrees
+Precipitation: 20 mm
+Region: Minsk
+22.04.2019 21:33:24 [main] INFO  Main  - Information about the weather over the past week in the regions
+whose inhabitants communicate in French
+22.04.2019 21:33:24 [main] INFO  Main  - 
+Date: 2019-04-20 
+Temperature: 19 degrees
+Precipitation: 15 mm
+Region: Bern 
+Language: French
+22.04.2019 21:46:16 [main] INFO  Main  - Connection to Weather DB succesfull!
+22.04.2019 21:46:16 [main] INFO  Main  - Weather information in Rome
+22.04.2019 21:46:16 [main] INFO  Main  - 
+Date: 2019-04-21 
+Temperature: 27 degrees
+Precipitation: 10 mm
+Region: Rome
+22.04.2019 21:46:16 [main] INFO  Main  - 
+_____________________________________________
+
+22.04.2019 21:46:16 [main] INFO  Main  - Weather information in Minsk where temperature <0  and precipitation >10
+22.04.2019 21:46:16 [main] INFO  Main  - 
+Date: 2019-04-02 
+Temperature: -8 degrees
+Precipitation: 20 mm
+Region: Minsk
+22.04.2019 21:46:16 [main] INFO  Main  - 
+_____________________________________________
+
+22.04.2019 21:46:16 [main] INFO  Main  - Information about the weather over the past week in the regions
+whose inhabitants communicate in French
+22.04.2019 21:46:16 [main] INFO  Main  - 
+Date: 2019-04-20 
+Temperature: 19 degrees
+Precipitation: 15 mm
+Region: Bern 
+Language: French
+22.04.2019 21:46:16 [main] INFO  Main  - 
+_____________________________________________
+
+22.04.2019 21:46:16 [main] INFO  Main  - last week's average temperature in regions with
+area of more than 350.
+22.04.2019 21:46:16 [main] INFO  Main  -  Temperature: 27 degrees
+ Region: Rome 
+Area: 1285.0
+Date: 2019-04-21
+22.04.2019 21:46:16 [main] INFO  Main  -  Temperature: 21 degrees
+ Region: London 
+Area: 1572.0
+Date: 2019-04-19
+22.04.2019 21:46:45 [main] INFO  Main  - Connection to Weather DB succesfull!
+22.04.2019 21:46:45 [main] INFO  Main  - Weather information in Rome
+22.04.2019 21:46:45 [main] INFO  Main  - 
+Date: 2019-04-21 
+Temperature: 27 degrees
+Precipitation: 10 mm
+Region: Rome
+22.04.2019 21:46:45 [main] INFO  Main  - 
+_____________________________________________
+
+22.04.2019 21:46:45 [main] INFO  Main  - Weather information in Minsk where temperature <0  and precipitation >10
+22.04.2019 21:46:45 [main] INFO  Main  - 
+Date: 2019-04-02 
+Temperature: -8 degrees
+Precipitation: 20 mm
+Region: Minsk
+22.04.2019 21:46:45 [main] INFO  Main  - 
+_____________________________________________
+
+22.04.2019 21:46:45 [main] INFO  Main  - Information about the weather over the past week in the regions
+whose inhabitants communicate in French
+22.04.2019 21:46:45 [main] INFO  Main  - 
+Date: 2019-04-20 
+Temperature: 19 degrees
+Precipitation: 15 mm
+Region: Bern 
+Language: French
+22.04.2019 21:46:45 [main] INFO  Main  - 
+_____________________________________________
+
+22.04.2019 21:46:45 [main] INFO  Main  - last week's average temperature in regions with
+area of more than 350.
+22.04.2019 21:46:45 [main] INFO  Main  -  
+Temperature: 27 degrees
+ Region: Rome 
+Area: 1285.0
+Date: 2019-04-21
+22.04.2019 21:46:45 [main] INFO  Main  -  
+Temperature: 21 degrees
+ Region: London 
+Area: 1572.0
+Date: 2019-04-19

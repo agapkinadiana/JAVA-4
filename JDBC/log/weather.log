@@ -1,0 +1,30 @@
+31.05.2019 08:20:35 [main] INFO  Main  - Connection to Weather DB succesfull!
+31.05.2019 08:20:35 [main] INFO  Main  - Weather information in Rome
+31.05.2019 08:20:35 [main] INFO  Main  - 
+Date: 2019-04-21 
+Temperature: 27 degrees
+Precipitation: 10 mm
+Region: Rome
+31.05.2019 08:20:35 [main] INFO  Main  - 
+_____________________________________________
+
+31.05.2019 08:20:35 [main] INFO  Main  - Weather information in Minsk where temperature <0  and precipitation >10
+31.05.2019 08:20:35 [main] INFO  Main  - 
+Date: 2019-04-02 
+Temperature: -8 degrees
+Precipitation: 20 mm
+Region: Minsk
+31.05.2019 08:20:35 [main] INFO  Main  - 
+_____________________________________________
+
+31.05.2019 08:20:35 [main] INFO  Main  - Information about the weather over the past week in the regions
+whose inhabitants communicate in French
+31.05.2019 08:20:35 [main] INFO  Main  - 
+_____________________________________________
+
+31.05.2019 08:20:35 [main] INFO  Main  - last week's average temperature in regions with
+area of more than 350.
+31.05.2019 08:20:35 [main] INFO  Main  - 
+_____________________________________________
+
+31.05.2019 08:20:35 [main] INFO  Main  - ))))))

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<taglib xmlns="http://java.sun.com/xml/ns/javaee"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd"
+        version="2.1">
+
+    <tlib-version>1.0</tlib-version>
+    <short-name>MyTag</short-name>
+    <uri>MyTag.tld</uri>
+
+    <tag>
+        <name>ADSLabledTextField</name>
+        <tag-class>JSTL.myTag.ADSLabledTextField</tag-class>
+        <body-content>JSP</body-content>
+        <attribute>
+            <name>value</name>
+            <required>false</required>
+            <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+            <name>name</name>
+            <required>true</required>
+            <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+            <name>label</name>
+            <required>true</required>
+            <type>java.lang.String</type>
+        </attribute>
+    </tag>
+
+    <tag>
+
+        <name>ADSTag</name>
+        <tag-class>JSTL.myTag.ADSTag</tag-class>
+        <body-content>JSP</body-content>
+        <attribute>
+            <name>value</name>
+            <required>false</required>
+            <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+            <name>name</name>
+            <required>true</required>
+            <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+            <name>label</name>
+            <required>true</required>
+            <type>java.lang.String</type>
+        </attribute>
+    </tag>
+
+
+    <tag>
+        <name>ADSsubmit</name>
+        <tag-class>JSTL.myTag.ADSsubmit</tag-class>
+        <body-content>JSP</body-content>
+    </tag>
+
+    <tag>
+        <name>ADStable</name>
+        <tag-class>JSTL.myTag.ADStable</tag-class>
+        <body-content>JSP</body-content>
+    </tag>
+</taglib>

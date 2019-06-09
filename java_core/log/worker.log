@@ -1,0 +1,63 @@
+26.03.2019 08:47:01 [main] INFO  main.Main  - start program
+26.03.2019 08:47:01 [main] INFO  company.Company  - new company
+26.03.2019 08:47:01 [main] INFO  director.Director  - new director
+26.03.2019 08:47:01 [main] INFO  worker.programmers.Junior  - new junior
+26.03.2019 08:47:01 [main] INFO  worker.Admin  - new admin
+26.03.2019 08:47:01 [main] INFO  worker.programmers.Junior  - new junior
+26.03.2019 08:47:01 [main] INFO  worker.programmers.Middle  - new middle
+26.03.2019 08:47:02 [main] ERROR class xml.validate.ValidatorSAX  - org.xml.sax.SAXParseException; cvc-complex-type.2.4.a: Invalid content was found starting with element 'name'. One of '{surname}' is expected.
+26.03.2019 08:47:02 [main] INFO  main.Main  - marshalling success
+26.03.2019 08:47:02 [main] INFO  main.Main  - transform to html success
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  - Doc started
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  - Scott
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  name
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  - 0
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  countCourpuses
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  company
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  - Boyd
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  surname
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  - Isabella
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  name
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  - Charleen
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  patronymic
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  - 15
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  experience
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  - 100
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  salary
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  worker
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  - Osborne
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  surname
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  - Jennifer
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  name
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  - Sherilyn
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  patronymic
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  - 5
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  experience
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  - 200
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  salary
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  worker
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  - Moody
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  surname
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  - Stewart
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  name
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  - Paul
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  patronymic
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  - 20
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  experience
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  - 560
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  salary
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  worker
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  -  director
+26.03.2019 08:47:02 [main] INFO  class xml.parse.demarshalling.DemoWorkerParser  - 
+Doc ended
+26.03.2019 08:47:02 [main] INFO  main.Main  - demarshalling success
+26.03.2019 08:47:02 [main] INFO  main.Main  - serialization success
+26.03.2019 08:47:02 [main] INFO  class serialization.Deserializator  - Junior - Worker - surname='Boyd', name='Isabella', patronymic='Charleen', experience=15, salary=100 , language=Java
+
+26.03.2019 08:47:02 [main] INFO  main.Main  - deserialization success
+26.03.2019 08:47:02 [main] INFO  company.Company  - new company
+26.03.2019 08:47:02 [main] INFO  class json.JsonReader  - {lastName=James, firstName=Ann, secondName=Emily, experience=2.0, salary=20.0}
+26.03.2019 08:47:02 [main] INFO  class json.JsonReader  - {lastName=James, firstName=Ann, secondName=Emily, experience=2.0, salary=20.0}
+26.03.2019 08:47:02 [main] INFO  main.Main  - jsonreader success
+26.03.2019 08:47:02 [main] INFO  class json.JsonGenerator  - {"name":"Scott","company":{"countCourpuses":0},"workers":[{"language":"Java","surname":"Boyd","name":"Isabella","patronymic":"Charleen","experience":15,"salary":100},{"language":"C","surname":"Osborne","name":"Jennifer","patronymic":"Sherilyn","experience":5,"salary":200},{"surname":"Moody","name":"Stewart","patronymic":"Paul","experience":20,"salary":560}]}
+26.03.2019 08:47:02 [main] INFO  main.Main  - jsonwritter success

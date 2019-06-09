@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<director>
+    <name>Evans</name>
+    <worker>
+        <name>Amy</name>
+        <patronymic>Leona</patronymic>
+        <salary>11</salary>
+        <experience>22</experience>
+    </worker>
+    <worker>
+        <surname>Moody</surname>
+        <name>Chrystal</name>
+        <patronymic>Iris</patronymic>
+        <salary>10</salary>
+        <experience>2</experience>
+    </worker>
+</director>
